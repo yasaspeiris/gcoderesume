@@ -13,3 +13,4 @@ A small python script to edit GCODE files to resume 3D prints after power loss.
     python gcoderesume.py -i EBA3_004.gcode -z 26.8
     
 4. Use the generated gcode file to start the print.
+5. If you want to change the temps etc, you can easily change from the script.
