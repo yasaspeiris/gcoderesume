@@ -1,4 +1,4 @@
-# gcoderesume
+# GCODE Resume!
 A small python script to edit GCODE files to resume 3D prints after power loss.
 
 1. Measure the height from the hot bed to the top of the existing print. (Preferably using a vernier caliper)
